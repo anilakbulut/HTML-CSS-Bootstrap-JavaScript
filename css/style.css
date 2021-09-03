@@ -1,0 +1,37 @@
+
+.navbar-bg-color{
+    background-color: #ececec;
+}
+
+.card-bg-color{
+    background-color: 	#d0d0d0;
+}
+body{
+    background-image:url('https://i.stack.imgur.com/RLQNm.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding-top: 6em;
+}
+.nav-height{
+    height: 5em;
+}
+.center {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.cv-bg-color{
+    background-color: 	#d0d0d0;
+}
+
+.cv-hr{
+    border: 6px solid rgb(202, 181, 153);
+    border-radius: 5px;
+}
+.fixed-height {
+    max-height: 400px;
+}
+.carousel-control {
+    width: 4%
+}
